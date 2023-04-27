@@ -47,15 +47,15 @@ export const popularProducts = [
   },
   {
     id: 2,
-    img: "https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tuSm31xlexki6G2BYlc2iyxiTUZWgr99Mg&usqp=CAU",
   },
   {
     id: 3,
-    img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    img: "https://img.lovepik.com/free-png/20211111/lovepik-hair-beauty-and-skin-care-products-png-image_400821327_wh1200.png",
   },
   {
     id: 4,
-    img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img: "https://img.lovepik.com/free-png/20211215/lovepik-beauty-holding-skin-care-skin-care-png-image_401628495_wh1200.png",
   },
   {
     id: 5,
@@ -67,7 +67,7 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img: "https://w7.pngwing.com/pngs/388/519/png-transparent-woman-putting-white-cream-on-face-face-brush-exfoliation-skin-care-cream-face-cosmetics-people-head-thumbnail.png",
   },
   {
     id: 8,
