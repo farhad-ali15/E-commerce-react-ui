@@ -41,6 +41,7 @@ const SocialIcon = styled.div`
   align-items: center;
   justify-content: center;
   margin-right: 20px;
+  cursor: pointer;
 `;
 
 const Center = styled.div`
@@ -65,6 +66,7 @@ const List = styled.ul`
 const ListItem = styled.li`
   width: 50%;
   margin-bottom: 10px;
+  cursor: pointer;
 `;
 
 const Right = styled.div`
@@ -81,6 +83,7 @@ const ContactItem = styled.div`
 
 const Payment = styled.img`
   width: 50%;
+  cursor: pointer;
 `;
 
 const Footer = () => {
@@ -133,7 +136,8 @@ const Footer = () => {
           <Phone style={{ marginRight: "10px" }} /> +1 234 56 78
         </ContactItem>
         <ContactItem>
-          <MailOutline style={{ marginRight: "10px" }} /> contact@abc.com
+          <MailOutline style={{ marginRight: "10px", cursor: "pointer" }} />{" "}
+          contact@abc.com
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>
